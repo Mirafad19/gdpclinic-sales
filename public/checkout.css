@@ -1,0 +1,13 @@
+.clinic-dialog{border:1px solid var(--line);border-radius:22px;padding:30px;width:min(560px,calc(100% - 32px));max-height:90vh;color:var(--ink);box-shadow:0 24px 80px #0a2a2633;font:inherit;background:#fff}
+.clinic-dialog::backdrop{background:#0a2a2688;backdrop-filter:blur(4px)}
+.clinic-dialog h2{font-size:25px;margin:12px 0}.clinic-dialog p{margin:12px 0;color:var(--ink-soft)}
+.clinic-close{float:right;border:0;border-radius:50%;width:36px;height:36px;background:#eef4f1;font-size:23px;color:var(--ink)}
+.clinic-dialog label{display:block;font-weight:700;margin:20px 0 8px}.clinic-dialog input{box-sizing:border-box;width:100%;padding:14px;border:1px solid #99aaa5;border-radius:10px;font:inherit}
+.clinic-dialog .btn{margin-top:14px}.clinic-dialog button:disabled{opacity:.6;cursor:wait}.clinic-dialog .clinic-status{font-size:14px;min-height:24px;color:#155048}
+.clinic-library-button{background:var(--teal-800);color:#fff;border:0;border-radius:30px;padding:10px 18px;font-weight:700;margin-bottom:20px}
+.clinic-book{display:flex;justify-content:space-between;gap:16px;align-items:center;border-top:1px solid var(--line);padding:18px 0}.clinic-book button{border:1px solid #155048;border-radius:8px;padding:10px;color:#155048;background:#fff;flex-shrink:0}
+.clinic-reader{width:min(1000px,calc(100% - 32px))}.clinic-reader-layout{display:grid;grid-template-columns:240px 1fr;gap:32px;margin-top:24px}
+.clinic-module-list{display:flex;flex-direction:column;gap:8px}.clinic-module-list button{background:#f2f6f4;border:0;text-align:left;padding:13px;border-radius:8px;color:var(--ink);font:inherit;font-size:13px}
+.clinic-module-list button[aria-current=true]{background:var(--teal-800);color:#fff}.clinic-module-body{line-height:1.85}.clinic-module-body h3{font-size:22px}.clinic-module-body p{margin:16px 0;color:var(--ink)}
+.clinic-progress{font-size:12px;color:var(--ink-soft)}.clinic-next{display:flex;gap:12px;justify-content:space-between;margin-top:24px}
+@media(max-width:650px){.clinic-reader-layout{grid-template-columns:1fr}.clinic-module-list{max-height:180px;overflow:auto}.clinic-dialog{padding:22px}.clinic-book{align-items:flex-start}}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "desk-guide",
+    "cover": "c1",
+    "title": "The Pain-Free Desk Guide",
+    "hook": "Relieve neck, shoulder and lower-back tension caused by long hours at a desk.",
+    "price": "₦8,500",
+    "rating": 4.8,
+    "reviews": 42,
+    "modules": [
+      "Understanding desk-related pain",
+      "The 10-minute daily reset routine",
+      "Ergonomic setup checklist",
+      "Stretches for tight hips & shoulders",
+      "Building a routine that sticks",
+      "When to book a physiotherapist"
+    ],
+    "ad": "Sit all day? Your body is keeping score. The Pain-Free Desk Guide gives you a physiotherapist-built, 10-minute daily routine to undo the damage. No gym, no equipment, just your chair and 10 minutes.",
+    "thanks": "Thank you for grabbing the Pain-Free Desk Guide! Give the Day 1 reset routine a try today. Your neck and shoulders will thank you.",
+    "amount": 850000
+  },
+  {
+    "id": "back-blueprint",
+    "cover": "c2",
+    "title": "Lower Back Recovery Blueprint",
+    "hook": "A progressive, phased plan for chronic and acute lower back pain.",
+    "price": "₦12,000",
+    "rating": 4.9,
+    "reviews": 67,
+    "modules": [
+      "What's really causing your back pain",
+      "Phase 1: calming the pain down",
+      "Phase 2: rebuilding safe movement",
+      "Phase 3: strength & long-term prevention",
+      "Daily and weekly tracking sheets",
+      "Red flags: when to see a doctor first"
+    ],
+    "ad": "Back pain doesn't need to run your life. The Lower Back Recovery Blueprint walks you through the exact three-phase process our physiotherapists use in clinic. Now yours to follow at home, at your own pace.",
+    "thanks": "Thank you for choosing the Lower Back Recovery Blueprint. Start with Phase 1 today, and remember: consistency beats intensity.",
+    "amount": 1200000
+  },
+  {
+    "id": "knee-roadmap",
+    "cover": "c3",
+    "title": "Post-Surgery Knee Recovery Roadmap",
+    "hook": "A 12-week, phase-by-phase rehab plan following knee surgery.",
+    "price": "₦15,000",
+    "rating": 4.9,
+    "reviews": 38,
+    "modules": [
+      "Weeks 1–2: protecting the healing joint",
+      "Weeks 3–5: regaining range of motion",
+      "Weeks 6–8: rebuilding strength",
+      "Weeks 9–12: returning to normal activity",
+      "Swelling & pain management guide",
+      "Milestone checklist & progress log"
+    ],
+    "ad": "Knee surgery is only step one. Recovery is where the real work happens. This 12-week roadmap gives you a clear, week-by-week plan so you always know exactly what to do next.",
+    "thanks": "Thank you for downloading the Post-Surgery Knee Recovery Roadmap. Take it one week at a time. We're cheering you on.",
+    "amount": 1500000
+  },
+  {
+    "id": "prenatal-guide",
+    "cover": "c4",
+    "title": "Prenatal & Postpartum Movement Guide",
+    "hook": "Safe movement through pregnancy and gentle recovery after birth.",
+    "price": "₦10,000",
+    "rating": 4.7,
+    "reviews": 29,
+    "modules": [
+      "Safe movement in each trimester",
+      "Easing pregnancy-related back & pelvic pain",
+      "Preparing your body for delivery",
+      "The first 6 weeks after birth",
+      "Rebuilding your core, safely",
+      "Returning to exercise: a gentle timeline"
+    ],
+    "ad": "Every stage of motherhood deserves the right movement. The Prenatal & Postpartum Movement Guide gives you physiotherapist-approved routines for pregnancy and a safe, supported return to movement afterward.",
+    "thanks": "Thank you for choosing the Prenatal & Postpartum Movement Guide. We're honoured to support you through this season.",
+    "amount": 1000000
+  },
+  {
+    "id": "return-to-play",
+    "cover": "c5",
+    "title": "Athlete's Return-to-Play Protocol",
+    "hook": "A structured protocol for safely returning to sport after injury.",
+    "price": "₦18,000",
+    "rating": 4.8,
+    "reviews": 24,
+    "modules": [
+      "Assessing whether you're truly ready",
+      "Rebuilding load tolerance safely",
+      "Sport-specific movement drills",
+      "Reducing re-injury risk",
+      "Return-to-play readiness tests",
+      "Ongoing maintenance plan"
+    ],
+    "ad": "Rushing back to sport is how injuries repeat. The Return-to-Play Protocol gives athletes and coaches a clear, test-based pathway back to full performance. Built by physiotherapists who work with athletes every day.",
+    "thanks": "Thank you for grabbing the Return-to-Play Protocol. Train smart, test before you progress, and let's get you back stronger.",
+    "amount": 1800000
+  },
+  {
+    "id": "posture-reset",
+    "cover": "c6",
+    "title": "Posture Reset in 21 Days",
+    "hook": "A beginner-friendly, day-by-day plan to correct slouched posture.",
+    "price": "₦7,500",
+    "rating": 4.6,
+    "reviews": 51,
+    "modules": [
+      "Why your posture changed in the first place",
+      "Week 1: awareness & mobility",
+      "Week 2: activating the right muscles",
+      "Week 3: making it automatic",
+      "Daily 5-minute routine card",
+      "Progress photos & tracking guide"
+    ],
+    "ad": "Better posture in three weeks, five minutes a day. Posture Reset in 21 Days is the simplest place to start if slouching, screen-neck, or a rounded back has been bothering you.",
+    "thanks": "Thank you for starting your Posture Reset journey! Day 1 takes five minutes. Let's go!",
+    "amount": 750000
+  }
+]
